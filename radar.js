@@ -27,7 +27,7 @@ function radar_visualization(config) {
   config.width = config.width || 1450;
   config.height = config.height || 1000;
   // config.colors = ("colors" in config) ? config.colors : {
-  //     background: "#fff",
+  //     background: "#071021",
   //     grid: '#dddde0',
   //     inactive: "#ddd"
   //   };

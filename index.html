@@ -126,9 +126,6 @@
             return response.json();
         }).then(function(data) {
             radar_visualization({
-                repo_url: "https://github.com/zalando/tech-radar",
-                title: "Blackbirds's Tech Radar",
-                date: data.date,
                 quadrants: [
                     { name: "Languages" },
                     { name: "Tools" },

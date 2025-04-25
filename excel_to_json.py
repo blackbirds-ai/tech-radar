@@ -2,7 +2,7 @@ import pandas as pd
 import json 
 
 # Define the filename
-xlsx_filename = "radar_entries1.xlsx"
+xlsx_filename = "radar_entries (1).xlsx"
 json_filename = "config.json"
 
 # Load the Excel file
